@@ -18,7 +18,7 @@ void main(List<String> args) {
   getValue called
   10
    */
-  ///-->Because late variables are intitialized when they are first used.
+  ///-->Because late variables are initialized when they are first used.
 
   
 }

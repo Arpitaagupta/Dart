@@ -19,7 +19,12 @@ In this repository, you will find a wide range of Dart topics covered, including
 - Functions and Methods
 - Classes and Objects
 - Asynchronous Programming
-- Error Handling
+- Collections
+- Mixins in Dart
+- Custom Operators
+- Extensions in Dart
+- Error and Exception Handling
+- Isolates in Dart
 - Libraries and Packages
 
 ## Getting Started

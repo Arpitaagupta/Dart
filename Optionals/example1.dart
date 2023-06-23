@@ -3,4 +3,5 @@ void main(List<String> args) {
   //const name = 'Hello';
   const String? name = null;
   print(name);
+  print(null);
 }

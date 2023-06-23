@@ -1,0 +1,29 @@
+In Dart, optionals refer to values that can either have a non-null value or no value at all. This concept is commonly used to handle situations where a variable or parameter may or may not contain a value. Optionals allow you to express the absence of a value explicitly, rather than using null.
+
+Dart provides two ways to work with optionals:
+
+1. Nullable types: By default, all variables in Dart are non-nullable, meaning they cannot hold null values. However, one can explicitly declare a variable or parameter as nullable by using the ? symbol after the type. For example:
+int? nullableValue;
+
+The nullableValue variable can hold an integer value or be null.
+
+2. Optional parameters: Dart allows to define optional parameters in functions and methods. Optional parameters can be named or positional and can have default values. Named parameters are enclosed in curly braces {} and can be assigned values using the parameter name. Positional parameters are specified inside square brackets []. 
+Here's an example:
+void greet({String? name, int age = 0}) {
+  if (name != null) {
+    print("Hello, $name!");
+  } else {
+    print("Hello, anonymous!");
+  }
+  print("Age: $age");
+}
+
+In the greet function above, the name parameter is a named optional parameter and can be null. The age parameter is a named optional parameter with a default value of 0.
+
+Greet function can be called with or without specifying the optional parameters:
+
+greet();  // Output: Hello, anonymous! Age: 0
+greet(name: "Alice");  // Output: Hello, Alice! Age: 0
+greet(name: "Bob", age: 25);  // Output: Hello, Bob! Age: 25
+
+By using optionals in Dart, one can write more flexible and expressive code, especially when dealing with values that may or may not be present.

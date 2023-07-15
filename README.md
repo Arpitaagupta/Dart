@@ -48,3 +48,5 @@ While this repository primarily serves as my personal practice space, I welcome 
 If you have any questions or would like to connect with me regarding Dart or this repository, you can reach me at arpitagupta6620@gmail.com 
 
 Happy Dart coding!
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)

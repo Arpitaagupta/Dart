@@ -1,6 +1,4 @@
-![Dart Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/2560px-Dart_programming_language_logo.svg.png)
-
-# Dart Practice Repository
+# <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart Logo" width="30" height="30"/> Dart Practice Repository 
 
 This repository serves as my personal Dart practice space. I am enrolled in a Dart crash course and use this repository to store and showcase my daily Dart practice exercises, projects, and learning progress.
 
@@ -39,14 +37,13 @@ git clone: https://github.com/Arpitaagupta/Dart.git
 
 Once cloned, you can navigate through the folders and examine the Dart code. Feel free to modify and experiment with the code to enhance your learning experience.
 
-## 🤝 Contributions
+## 🤝 Contributions [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 While this repository primarily serves as my personal practice space, I welcome constructive feedback, suggestions, and contributions. If you find any issues or have ideas to improve the code, feel free to submit a pull request or open an issue.
 
-## 📥 Contact
+---
 
-If you have any questions or would like to connect with me regarding Dart or this repository, you can reach me at arpitagupta6620@gmail.com 
+<div align="center">
 
-Happy Dart coding!
+Happy Dart coding!❤️
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
